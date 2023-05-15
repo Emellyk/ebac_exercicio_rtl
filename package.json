@@ -39,5 +39,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "`npm install` ou `yarn install`",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emellyk/ebac_exercicio_rtl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emellyk/ebac_exercicio_rtl/issues"
+  },
+  "homepage": "https://github.com/Emellyk/ebac_exercicio_rtl#readme"
 }
