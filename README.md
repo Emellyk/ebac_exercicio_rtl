@@ -1,3 +1,7 @@
+# Executando código de testes de comentários
+Realizado o fork do repositório e implementado código de testes
+testing.lib
+
 # Requisitos
 ## Instalar as dependências
 `npm install` ou `yarn install`
